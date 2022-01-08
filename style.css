@@ -1,0 +1,47 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+}
+
+.div_speed {
+    float: left;
+}
+
+.img_speed , .img_volume {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed , #volume {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+button {
+    font-size: 23px !important;
+    width: 150px;
+    margin: 10px 30px;
+}
+
+canvas {
+    border: 10px ridge grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px grey;
+    margin-top: 40px;
+}
